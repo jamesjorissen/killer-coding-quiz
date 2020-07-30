@@ -1,0 +1,48 @@
+#wrapper {
+  background-color: orangered;
+  position: sticky;
+  left: 20%;
+  top: 20%;
+  bottom: 20%;
+  right: 20%;
+  width: 600px;
+  height: 600px;
+  border: 1px solid navy;
+}
+#fiveHundredSeconds {
+  background-color: navajowhite;
+  float: right;  
+}
+#quiz {
+    background-color: navajowhite;
+    padding: 25%;
+    margin: 25px;
+}
+#initiate {
+    background-color: orangered;
+    margin-left: 25%;
+    padding: 20px 20px;
+    font size: 25px;
+  }
+#startOver {
+    background-color: navajowhite;
+    margin-left: 25%;
+    padding: 20px 20px;
+    font size: 25px;
+  }
+button {
+    float: left;
+    border-radius: 13px;
+    border-color: navy;
+}
+textarea {
+    width: 95%;
+    height: 50%;
+    margin: 5px;
+    
+}
+
+
+
+
+
